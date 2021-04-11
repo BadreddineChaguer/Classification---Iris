@@ -1,2 +1,2 @@
-# Classification---Iris
-Some supervised classification methods
+# Classification---Perceptron_KNN_ClassificationTree_LogisticRegression_SVM
+Supervised classification methods
