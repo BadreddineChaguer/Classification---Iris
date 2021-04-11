@@ -1,2 +1,8 @@
-# Classification---Perceptron_KNN_ClassificationTree_LogisticRegression_SVM
-Supervised classification methods
+# Classification problem
+
+- Application of some classification methods to Iris data:
+    * Perceptron
+    * KNN
+    * Classification tree
+    * LogisticRegression
+    * SVM
